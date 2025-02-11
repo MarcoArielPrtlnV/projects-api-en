@@ -2,20 +2,20 @@
 
     {
         "id": 1,
-        "name": "Encriptador de Texto",
+        "name": "Text Encryptor App",
         "url_github": "https://github.com/MarcoArielPrtlnV/desafio-encriptador-de-texto-ONE",
         "url_page": "https://marcoarielprtlnv.github.io/desafio-encriptador-de-texto-ONE/",
-        "description": "Challenge de la formación Lógica de programación con JavaScript",
+        "description": "Challenge of the Logical Programming Training with JavaScript",
         "image": "https://i.postimg.cc/13scZ1TN/encriptador.png"
     }, 
 
     {
 
         "id": 2,
-        "name": "App Fokus",
+        "name": "Fokus App",
         "url_github": "https://github.com/MarcoArielPrtlnV/app-fokus",
         "url_page": "https://marcoarielprtlnv.github.io/app-fokus/",
-        "description": "App Fokus para organizar jornadas de concentración, descansos cortos y largos.",
+        "description": "App Fokus for organizing concentration sessions, short breaks, and long breaks.",
         "image": "https://i.postimg.cc/bYSRxTkd/app-fokus.png"
     },
 
@@ -25,7 +25,7 @@
         "name": "Alura Shop",
         "url_github": "https://github.com/MarcoArielPrtlnV/challenge-alura-geek",
         "url_page": "https://marcoarielprtlnv.github.io/challenge-alura-geek/",
-        "description": "App de comercio electrónico, permite listar productos, agregar productos al carrito, modificar cantidades, calcular el total y procesar la compra.",
+        "description": "E-commerce app that allows users to list products, add products to the cart, modify quantities, calculate the total, and process the purchase.",
         "image": "https://i.postimg.cc/d3CmJsw-G/alura-shop.png"
 
     },
@@ -36,7 +36,7 @@
         "name": "Coffee Store",
         "url_github": "https://github.com/MarcoArielPrtlnV/coffee-shop",
         "url_page": "https://marcoarielprtlnv.github.io/coffee-shop/",
-        "description": "Ejemplo de una interfaz web para una cafetería local",
+        "description": "Example of a web interface for a local coffee shop.",
         "image": "https://i.postimg.cc/jdV4Z74c/coffee-shop.png"
 
 
@@ -48,7 +48,7 @@
         "name": "Gibson Store",
         "url_github": "https://github.com/MarcoArielPrtlnV/gibson-store-js",
         "url_page": "https://marcoarielprtlnv.github.io/gibson-store-js/",
-        "description": "Ejemplo de una interfaz de venta de guitarras Gibson",
+        "description": "Example of a Gibson guitar sales interface.",
         "image": "https://i.postimg.cc/Vkg9fHQZ/gibson-store.png"
 
     },
@@ -59,7 +59,7 @@
         "name": "Starbucks Page",
         "url_github": "https://github.com/MarcoArielPrtlnV/starbucks-web-page",
         "url_page": "https://marcoarielprtlnv.github.io/starbucks-web-page/",
-        "description": "Ejemplo de una interfaz web de Starbucks Coffee",
+        "description": "Example of a Starbucks Coffee web interface.",
         "image": "https://i.postimg.cc/HLLwV4TY/starbucks-page.png"
 
     },
@@ -71,7 +71,7 @@
         "name": "Alura Movies Data Base",
         "url_github": "https://github.com/MarcoArielPrtlnV/alura-movie-database",
         "url_page": "https://alura-movie-database.vercel.app/",
-        "description": "Aplicación web creada con React y Vite para buscar información de películas consumiendo la API de The Movie Database (TMDb)",
+        "description": "Web application built with React and Vite to search for movie information by consuming The Movie Database (TMDb) API.",
         "image": "https://i.postimg.cc/VLjBTk78/alura-movies-db.png"
     }
 
